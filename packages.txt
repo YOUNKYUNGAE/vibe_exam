@@ -1,7 +1,1 @@
-# Streamlit Cloud용 패키지 파일 (선택사항)
-streamlit
-feedparser
-requests
-google-generativeai
-PyGithub
-python-dateutil
+
