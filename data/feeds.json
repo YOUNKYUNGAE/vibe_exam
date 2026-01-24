@@ -1,0 +1,16 @@
+{
+  "feeds": [
+    {
+      "name": "전자신문",
+      "url": "https://www.etnews.com/rss/section/03000000.xml",
+      "enabled": true,
+      "added_at": "2025-01-24T00:00:00Z"
+    },
+    {
+      "name": "ZDNet Korea",
+      "url": "https://www.zdnet.co.kr/rss/all.xml",
+      "enabled": true,
+      "added_at": "2025-01-24T00:00:00Z"
+    }
+  ]
+}
