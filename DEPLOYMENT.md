@@ -45,8 +45,8 @@ git push -u origin main
    - 다음 내용을 입력:
 
 ```toml
-GEMINI_API_KEY = "AIzaSyC_WKlKD7benooSdNRE4ncZGUw-q0ea6jg"
-GITHUB_TOKEN = "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"
+GEMINI_API_KEY = "your-gemini-api-key-here"
+GITHUB_TOKEN = "your-github-token-here"  # 선택사항
 GITHUB_REPO = "YOUNKYUNGAE/vibe_exam"
 ```
 
