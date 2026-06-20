@@ -2,7 +2,7 @@
 
 AI 기반 IT 뉴스 브리핑 앱 - Gemini API를 활용한 일일 IT 뉴스 요약 서비스
 
-## 🚀 기능
+##  기능
 
 - **RSS 피드 수집**: 국내 IT 미디어의 RSS 피드에서 최신 뉴스 수집
 - **AI 분석**: Google Gemini API를 사용한 뉴스 요약 및 카테고리 분류
@@ -10,14 +10,14 @@ AI 기반 IT 뉴스 브리핑 앱 - Gemini API를 활용한 일일 IT 뉴스 요
 - **GitHub 저장**: JSON 파일을 GitHub 리포지토리에 영구 저장
 - **방문자 통계**: 일별 방문자 수 추적
 
-## 📋 요구사항
+##  요구사항
 
 - Python 3.8+
 - Streamlit
 - Google Gemini API Key
 - GitHub Personal Access Token (선택사항)
 
-## 🛠️ 설치
+##  설치
 
 1. 저장소 클론
 ```bash
@@ -42,7 +42,7 @@ GITHUB_REPO = "username/repository-name"
 Streamlit Cloud 배포 시:
 - Streamlit Cloud 대시보드에서 Secrets 설정에 위 값들을 추가
 
-## 🎯 사용 방법
+##  사용 방법
 
 1. 앱 실행
 ```bash
@@ -77,7 +77,7 @@ cursor_test/
     └── stats.json        # 방문자 통계
 ```
 
-## 🔧 설정
+##  설정
 
 ### Gemini API Key 발급
 1. [Google AI Studio](https://makersuite.google.com/app/apikey)에서 API 키 발급
@@ -89,6 +89,6 @@ cursor_test/
 3. Secrets에 `GITHUB_TOKEN`으로 등록
 4. `GITHUB_REPO`에 저장소 이름 (예: `username/repo-name`) 설정
 
-## 📝 라이선스
+##  라이선스
 
 MIT License
